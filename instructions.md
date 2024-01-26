@@ -1,9 +1,3 @@
-# docker-dumb-ai
-A dumb A.I. used to test the deployment of a docker image in the Docker Hub platform.
-
-
-# Instructions:
-
 #### a successful setup should display both the server and client information
 docker version
 
